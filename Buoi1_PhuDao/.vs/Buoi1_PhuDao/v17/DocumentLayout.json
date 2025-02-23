@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HaNT\\source\\repos\\PhuDao\\Buoi1_PhuDao\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{647ED29B-9BF0-46A5-83E8-C1C783C2AA8A}|Buoi1_PhuDao\\Buoi1_PhuDao.csproj|c:\\users\\hant\\source\\repos\\phudao\\buoi1_phudao\\buoi1_phudao\\calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{647ED29B-9BF0-46A5-83E8-C1C783C2AA8A}|Buoi1_PhuDao\\Buoi1_PhuDao.csproj|solutionrelative:buoi1_phudao\\calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{647ED29B-9BF0-46A5-83E8-C1C783C2AA8A}|Buoi1_PhuDao\\Buoi1_PhuDao.csproj|c:\\users\\hant\\source\\repos\\phudao\\buoi1_phudao\\buoi1_phudao\\calculatortest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{647ED29B-9BF0-46A5-83E8-C1C783C2AA8A}|Buoi1_PhuDao\\Buoi1_PhuDao.csproj|solutionrelative:buoi1_phudao\\calculatortest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{647ED29B-9BF0-46A5-83E8-C1C783C2AA8A}|Buoi1_PhuDao\\Buoi1_PhuDao.csproj|c:\\users\\hant\\source\\repos\\phudao\\buoi1_phudao\\buoi1_phudao\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{647ED29B-9BF0-46A5-83E8-C1C783C2AA8A}|Buoi1_PhuDao\\Buoi1_PhuDao.csproj|solutionrelative:buoi1_phudao\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CalculatorTest.cs",
+              "DocumentMoniker": "C:\\Users\\HaNT\\source\\repos\\PhuDao\\Buoi1_PhuDao\\Buoi1_PhuDao\\CalculatorTest.cs",
+              "RelativeDocumentMoniker": "Buoi1_PhuDao\\CalculatorTest.cs",
+              "ToolTip": "C:\\Users\\HaNT\\source\\repos\\PhuDao\\Buoi1_PhuDao\\Buoi1_PhuDao\\CalculatorTest.cs",
+              "RelativeToolTip": "Buoi1_PhuDao\\CalculatorTest.cs",
+              "ViewState": "AgIAAHMAAAAAAAAAAAAswH0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T10:23:23.264Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Calculator.cs",
+              "DocumentMoniker": "C:\\Users\\HaNT\\source\\repos\\PhuDao\\Buoi1_PhuDao\\Buoi1_PhuDao\\Calculator.cs",
+              "RelativeDocumentMoniker": "Buoi1_PhuDao\\Calculator.cs",
+              "ToolTip": "C:\\Users\\HaNT\\source\\repos\\PhuDao\\Buoi1_PhuDao\\Buoi1_PhuDao\\Calculator.cs",
+              "RelativeToolTip": "Buoi1_PhuDao\\Calculator.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAA0wCYAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T10:20:12.813Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\HaNT\\source\\repos\\PhuDao\\Buoi1_PhuDao\\Buoi1_PhuDao\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "Buoi1_PhuDao\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\HaNT\\source\\repos\\PhuDao\\Buoi1_PhuDao\\Buoi1_PhuDao\\UnitTest1.cs",
+              "RelativeToolTip": "Buoi1_PhuDao\\UnitTest1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T10:16:40.33Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
